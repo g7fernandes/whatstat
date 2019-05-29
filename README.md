@@ -7,8 +7,7 @@ doing so will be faster and it allows a bigger chat file. Whatsapp export a maxi
 Save the .txt file that whatsapp exported in the same folder where the program is located. After running python whatstat, the 
 program will ask the name of the file (with extension).
 
-This program works with whatsapp installed in a smartphone in English, Portuguese, German or French. The way which whastapp writes 
-the date varies with language. 
+This program supports the export file of Whatsapp installed on smartphones in English, Portuguese, German or French. The way which whastapp writes the date varies with language. 
 
 The program rank the members by number of messages, build graph of message frequency of selected members, and calculates the 
 correlation. To make an smoother graph, the frenquency ploted is calculated in a window of time that moves. A correlation is
